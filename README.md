@@ -1,7 +1,7 @@
 # war-card-game
 This is my own version of war card game. i learned this game from my online Udemy python course and decided to make my own version.
 Tryout and tell me the remarks.
-thankyou to my instructor :jose portilla.
+thanks to my instructor :jose portilla.
 
 # War Card Game
 
