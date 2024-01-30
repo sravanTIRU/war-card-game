@@ -13,6 +13,8 @@ thanks to my instructor :jose portilla.
 # 2. Game Name and Short Description
 Welcome to the War Card Game! This is a simple console-based card game where two players engage in battles and wars to determine the ultimate winner.
 
+#currently the game revolves around two computer generated players that interact with each other. 
+
 # 3. Game Rules
 - The game is played with a standard deck of 52 cards.
 - The deck is divided equally between two players.
